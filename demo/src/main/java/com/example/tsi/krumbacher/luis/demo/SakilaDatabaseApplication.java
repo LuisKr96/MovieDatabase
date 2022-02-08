@@ -12,6 +12,8 @@ public class SakilaDatabaseApplication {
 
 	public static void main(String[] args) {
 
+
+
 		SpringApplication.run(SakilaDatabaseApplication.class, args);
 	}
 
